@@ -1,10 +1,8 @@
-# Podcastr
-Podcastr logo
-Podcastr
-Author Languages Stars
+# 🎧 Podcastr
 
 Podcastr is a platform built for podcast broadcasting.
-Podcastr preview
+![image](https://user-images.githubusercontent.com/69826917/115975834-a6355300-a53e-11eb-9ce8-0fd635e0f77a.png)
+
 
 Tecnologies
 
@@ -19,7 +17,7 @@ Requirements
 You need to install both Node.js and Yarn to run this project.
 Clone the project and access the folder
 
-$ git clone https://github.com/josepholiveira/podcastr.git && cd podcastr
+$ git clone https://github.com/Kijibr/Podcastr.git && cd podcastr
 Follow the steps below
 
 # Install the dependencies
