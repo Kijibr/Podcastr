@@ -1,0 +1,7 @@
+.wrapper{ //ocupa o máximo de espaço possível e seja flexível
+  display: flex;
+
+  main {
+    flex: 1;
+  }
+}
